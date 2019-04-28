@@ -28,6 +28,9 @@ import org.springframework.web.client.RestTemplate;
  * postForLocation() POST 数据到一个URL，返回新创建资源的URL
  * put() PUT 资源到特定的URL
  *
+ * 【参考资料】
+ * https://blog.csdn.net/qq_15452971/article/details/79416469
+ * https://blog.csdn.net/weixin_40461281/article/details/83540604
  */
 @Service
 public class RestTemplateToInterface {
